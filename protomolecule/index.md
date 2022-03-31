@@ -8,7 +8,7 @@ Technology changes everything.
 
 John Von Neumann died heavily medicated in a hospital bed at the age of 53.
 
-A.M. Turing was assassinated by their own government at the age of 41.
+A.M. Turing was assassinated by the British government at the age of 41.
 
 Turing's official cause of death was cyanide poisoning, which authorities determined to be a suicide. That claim has been [disputed](https://www.bbc.com/news/science-environment-18561092) by Jack Copeland, philosopher and accomplished Turing historian. 
 
