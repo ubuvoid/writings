@@ -1,0 +1,19 @@
+# Computer science is our protomolecule.
+
+The first major application of computer science by a state power was the decryption project that broke the Enigma codes in World War II. Historians estimate that these efforts shortened the war by two years and saved 14 million lives. The project was led by A.M. Turing.
+
+The second major application of computer science by a state power was the hydrogen bomb. In 'The Pentagon's Brain', Annie Jacobson writes: "Enrico Fermi and Isidor Rabi, both Manhattan Project scientists, called this machine an “evil thing,” and they told President Truman it should never be created. But it was built anyway." Computer simulations were essential to the design and construction of the blast. These simulations underestimated the magnitude of the bomb by a factor of three. These simulations were led by John Von Neumann.
+
+Technology changes everything.
+
+John Von Neumann died heavily medicated in a hospital bed at the age of 53.
+
+A.M. Turing was assassinated by their own government at the age of 41.
+
+Turing's official cause of death was cyanide poisoning, and authorities determined it to be a suicide.
+
+It is widely known, but not commonly discussed, that A.M. Turing, founder of modern Computer Science, was prescribed estrogen supplements in 1952. Contrary to popular depictions, Turing's mood improved remarkably while on hormone replacement therapy. Wikipedia writes: "Turing had reportedly borne his legal setbacks and hormone treatment (which had been discontinued a year previously) "with good humour" and had shown no sign of despondency prior to his death".
+
+Computer science was discovered by a transgender woman, used to save 14 million lives, and usurped by white supremacist empire to create a weapon of unimaginable death.
+
+Technology changes everything.
