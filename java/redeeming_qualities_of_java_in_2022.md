@@ -28,4 +28,3 @@ As far as reasons why you won't see widespread Java usage outside of those legac
 
 It's ironic, since the motto of Java used to be "write once, run everywhere", but that's the way things go.
 
-Postscript, 3/31/22: This is my first and likely only Stack Overflow post. If you want to read more like this, check out my github: https://github.com/ubuvoid
