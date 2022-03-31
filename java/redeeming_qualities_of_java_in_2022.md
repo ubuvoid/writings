@@ -1,6 +1,7 @@
 # Redeeming Qualities of Java in 2022
 
 ---
+
 *Cross-posted from Stack Overflow.* *https://stackoverflow.com/a/71611139/18573935 . The question from DevelJoe, paraphrased, is: would Java be an appropriate language for cross-platform mobile app development? Originally posted 03/25/22.*
 
 ---
@@ -17,7 +18,7 @@ Some reasons why you might want to learn Java:
 - Developing on Android. Android now supports/recommends Kotlin for new projects, but Java was the sole first-class language on the platform for 10+ years, so it's advantageous to be able to read/write/reuse Java code and libraries.
 - Using long-standing big-data tools (spark, hadoop, neo4j, etc.). While this domain has increasingly moved to Python over the past 5-7 years, there's still a lot of production Java code that someone needs to maintain. *\[Edit 3/31/22: See also the Apache http server, whose name never sat right with me because as far as I know, the people who wrote it aren't Apache.]*
 - Stylistic similarity to C-family languages. Java can be a more intuitive introduction to C-style languages than jumping right into, say C++. These days, though, I would recommend C# over Java since it's used in more domains.
-- Continuity with some JS dialects. React code in particular is full of Object Oriented(tm) design conventions that are very strongly influenced by Java practices, and those design choices in turn have influenced changes in the JS spec. So being familiar with Java conventions can help make sense of that stuff. It can also help you identify which of those practices are bad ideas so you can avoid them in JS.
+- Continuity with some JS dialects. React code in particular is full of Object Oriented(tm) design conventions that are very strongly influenced by Java practices, and those design choices in turn have influenced changes in the JS spec. So being familiar with Java conventions can help make sense of that stuff. It can also help you identify which of those practices are bad ideas so you can avoid them in JS.[^1]
 
 
 As far as reasons why you won't see widespread Java usage outside of those legacy domains, I'd say there are a lot of good reasons people have moved away from Java since 2006 or so:
@@ -29,3 +30,5 @@ As far as reasons why you won't see widespread Java usage outside of those legac
 
 It's ironic, since the motto of Java used to be "write once, run everywhere", but that's the way things go.
 
+
+[^1]: Actually, this kind of a trick question, since most commonly accepted Java practices are bad ideas. This can be demonstrated by the fact that in 1995, object-oriented Java applications would run in a typical web browser, whereas 27 years later Java is considered too heavyweight for that task.
