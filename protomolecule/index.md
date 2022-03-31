@@ -2,7 +2,7 @@
 
 The first major application of computer science by a state power was the decryption project that broke the Enigma codes in World War II. Historians estimate that these efforts shortened the war by two years and saved 14 million lives. The project was led by A.M. Turing.
 
-The second major application of computer science by a state power was the hydrogen bomb. In 'The Pentagon's Brain', Annie Jacobson writes: "Enrico Fermi and Isidor Rabi, both Manhattan Project scientists, called this machine an “evil thing,” and they told President Truman it should never be created. But it was built anyway." Computer simulations were essential to the design and construction of the blast. These simulations underestimated the magnitude of the bomb by a factor of three. These simulations were led by John Von Neumann.
+The second major application of computer science by a state power was the hydrogen bomb. In 'The Pentagon's Brain', Annie Jacobson writes: "Enrico Fermi and Isidor Rabi, both Manhattan Project scientists, called this machine an “evil thing,” and they told President Truman it should never be created. But it was built anyway." Computer simulations were essential to the bomb's design and construction. These simulations underestimated the magnitude of the explosion by a factor of three. These simulations were led by John Von Neumann.
 
 Technology changes everything.
 
