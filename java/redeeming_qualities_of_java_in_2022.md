@@ -2,8 +2,9 @@
 
 *Cross-posted from Stack Overflow.* *https://stackoverflow.com/a/71611139/18573935 . The question from DevelJoe, paraphrased, is: would Java be an appropriate language for cross-platform mobile app development? Originally posted 03/25/22.*
 
+----
 
-Post is a few months old now, but I figure someone with a similar question will probably find this with web search, so this reply is for them. (Disclaimer: I wrote Java professionally for about five years, and I grew up when Java was supposed to be the future.)*
+Post is a few months old now, but I figure someone with a similar question will probably find this with web search, so this reply is for them. *(Disclaimer: I wrote Java professionally for about five years, and I grew up when Java was supposed to be the future.)*
 
 If the question is, "Can you write Java code and run it on iOS?" then the answer is, "Technically yes, but you almost certainly don't want to."
 
