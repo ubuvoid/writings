@@ -10,7 +10,7 @@ John Von Neumann died heavily medicated in a hospital bed at the age of 53.
 
 A.M. Turing was assassinated by the British government at the age of 41.
 
-Turing's official cause of death was cyanide poisoning, which authorities determined to be a suicide. That claim has been [disputed](https://www.bbc.com/news/science-environment-18561092) by Jack Copeland, philosopher and accomplished Turing historian. 
+Turing's official cause of death was cyanide poisoning, which authorities determined to be a suicide. That claim has been [disputed](https://www.bbc.com/news/science-environment-18561092) by Jack Copeland, philosopher and accomplished Turing historian. *(CAUTION: Link to British state-affiliated media!!!! Stay informed!!!)*
 
 It is widely known, but not commonly discussed, that A.M. Turing, founder of modern Computer Science, was prescribed estrogen supplements in 1952. Contrary to popular depictions, Turing's mood improved remarkably while on hormone replacement therapy. Wikipedia writes: "Turing had reportedly borne his legal setbacks and hormone treatment (which had been discontinued a year previously) "with good humour" and had shown no sign of despondency prior to his death".
 
