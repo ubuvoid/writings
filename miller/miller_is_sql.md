@@ -33,3 +33,54 @@ The Ring is shown to be some sort of limbo, or bubble. A pocket dimension, betwe
 Because at the end of the day, it's all about Turing-completeness.
 
 \[end of intro]
+
+----
+
+Next steps: Types of languages, "degrees" of completeness.
+
+----
+
+simplest category of languages: description.
+
+"description languages" : includes idl's (proto, thrift, diana idl, corba, jsontypedef), markup languages, json, xml, html. abstract syntax trees. any language that specifically has no performing of verbs. no decisions, no actions. only descriptions of what is. (or what might be). see also, serialized representation of diana. grammars/language specifications. antlr.
+
+----
+
+category two: description, performance without choice.
+
+ex: simple four-function calculator. '=' is 'perform'.
+
+performance. that's the word. description and performance, with no choice or branching pathways.
+
+----
+
+third (boundary) category: description, performance, choice, with restrictions on repetition.
+(typically, small set of atomic actions). ex: traditional atomic SQL implementations (trivially extended to TC by adding 'while true', easy to accidentally make TC by adding convenience language features) (edited)
+
+---
+
+turing completeness:
+
+final category: description, performance with choice, unrestricted repetition. turing completeness. branching.
+
+while true subtract and jump if less than zero -> sufficient for turing completeness (edited)
+
+sidebar: interesting relationship between dna and representation of single instruction set computer programs ex: subleq.
+
+----
+
+category 3 and category 4 are so similar as to be meaningfully indistinguishable.
+
+category 3 is best described as a special case restricted execution of a turing complete language. justification: writing the words "while true:" before running the programming language's interpreter in shell will result in TC execution.
+
+really, this leads us to conclude that there really is no meaningful 'without repetition' category at all, since repetition is the most basic element of a language. next time someone tries to tell you that SQL is "not" Turing-complete, send them my way.
+
+----
+
+Bringing it back around:
+
+At first, the protomolecule allows the Turing-complete process known as Miller's consciousness to operate in the same physical space as Holden within very strict and very specific operational and timing constraints. The reason is obvious -- Turing completeness is powerful, and if you place unwarranted trust in another Turing-complete process you're talking to, that process can hurt you in any number of ways. So in the show, as in reality, we execute our code in a sandbox.
+
+As we gain confidence about our code and its provenance, we start running the code in bigger and bigger sandboxes. In the show, the biggest sandbox we see is the interior of The Ring itself, a neutral zone, a bubble separate from other realities, but one with a rich bandwidth of information into and out of it through controlled channels.
+
+A little bit like running code as a trusted user rather than inside a Sawzall interpreter.
