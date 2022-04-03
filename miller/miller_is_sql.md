@@ -36,7 +36,7 @@ Because at the end of the day, it's all about Turing-completeness.
 
 ----
 
-Next steps: Types of languages, "degrees" of completeness.
+Next steps: Types of languages, "degrees" of completeness. Disclaimer: I made up this entire framework out of thin air, but it seems plausible to me.
 
 ----
 
