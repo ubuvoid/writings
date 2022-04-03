@@ -55,7 +55,8 @@ performance. that's the word. description and performance, with no choice or bra
 ----
 
 third (boundary) category: description, performance, choice, with restrictions on repetition.
-(typically, small set of atomic actions). ex: traditional atomic SQL implementations (trivially extended to TC by adding 'while true', easy to accidentally make TC by adding convenience language features) (edited)
+
+typically, small set of atomic actions. ex: traditional atomic SQL implementations (trivially extended to TC by adding 'while true', easy to accidentally make TC by adding convenience language features.
 
 ---
 
@@ -63,7 +64,7 @@ turing completeness:
 
 final category: description, performance with choice, unrestricted repetition. turing completeness. branching.
 
-while true subtract and jump if less than zero -> sufficient for turing completeness (edited)
+while true subtract and jump if less than zero -> sufficient for turing completeness ([i think.](https://en.wikipedia.org/wiki/One-instruction_set_computer#Subtract_and_branch_if_less_than_or_equal_to_zero))
 
 sidebar: interesting relationship between dna and representation of single instruction set computer programs ex: subleq.
 
