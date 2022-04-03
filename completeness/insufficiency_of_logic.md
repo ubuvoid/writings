@@ -17,3 +17,4 @@ Slightly less short version:
 * Both groups were influenced by Godel and the work that became known as the Incompleteness Theorem. Both groups positioned their models in opposition to Hilbert's, as did Godel. What's more likely: one, that two independent groups on opposite sides of an ocean delivered the same theory of universal computation and yet this universal theory was wrong; or two, that David Hilbert was an idiot?
 * This points us to the most beautiful thing about computer science, or the theory of completeness: it's obvious.
 * Did you know that Turing was a student of Wittgenstein, and that transcipts of their conversations during lectures are preserved in the historical record?
+* So, with Turing, Church, Kleene, Rosser, Davis, Godel, *and* Wittgenstein are all on one side, and David Hilbert alone on the other... Are you really willing to go to bat for David Hilbert? And if so, why?
