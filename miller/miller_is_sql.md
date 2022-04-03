@@ -86,4 +86,4 @@ As we gain confidence about our code and its provenance, we start running the co
 
 A little bit like running code as a trusted user rather than inside a Sawzall interpreter.
 
-Of course, it's all just one big interpreter at the end of the day.
+Of course, whatever side of the Ring you're on, it's all just one big interpreter at the end of the day.
