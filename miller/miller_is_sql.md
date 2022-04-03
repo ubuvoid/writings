@@ -74,7 +74,7 @@ category 3 and category 4 are so similar as to be meaningfully indistinguishable
 
 category 3 is best described as a special case restricted execution of a turing complete language. justification: writing the words "while true:" before running the programming language's interpreter in shell will result in TC execution.
 
-really, this leads us to conclude that there really is no meaningful 'without repetition' category at all, since repetition is the most basic element of a language. next time someone tries to tell you that SQL is "not" Turing-complete, send them my way.
+really, this leads us to conclude that there really is no meaningful 'without repetition' category at all, since repetition is the most basic element of a language. next time someone tries to tell you that SQL is "not" Turing-complete, send them to this post.
 
 ----
 
