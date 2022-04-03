@@ -1,5 +1,16 @@
 # Turing's Completeness Theorem and the Insufficiency of Logic
 
+Very short version:
+
+* Martin Davis is right and David Hilbert was wrong.
+* 11/30/1936: The day A.M. Turing owned David Hilbert with Hilbert's own logic. ("On Computable Numbers, with an Application to the Entscheidungsproblem"; "The Deciding Problem").
+* An Astonishing Coincidence: Independent discovery of lambda calculus by Church group.
+* Godel's Influence on Turing and Lambda, opposition to Hilbert.
+* It's beautiful because it's obvious.
+* Wittgenstein's influence on Turing, and Turing's critique of Wittgenstein.
+
+Slightly less short version:
+
 * Martin Davis is right and David Hilbert was wrong.
 * 11/30/1936. David Hilbert becomes the first person in recorded history to actually be owned by their own logic, as A.M. Turing publishes "On Computable Numbers, with an Application to the Entscheidungsproblem." The paper, which runs 36 pages including an appendix, describes the model of universal computing which would come to be known as the Turing Machine and serves as the basis for computer science as we know it, both theoretical and practical. Turing specifically wrote "On Computable Numbers" to demonstrate that David Hilbert was wrong about a core problem of philosophy (literally, "The Deciding Problem"). You will notice that very few people born after 1936 call themselves logicians. Turing was 24 years old.
 * This event is also the occasion of the most astonishing coincidence I am aware of in recorded history. Simultaneously, on the other side of the Atlantic ocean, an independent group working at Princeton University under the stewardship of Alonzo Church developed the lambda calculus, an alternate model of univeral computation which inspired the LISP family of programming languages. Church's group published first, so it was on Turing to prove that the two models of computation are mathematically equivalent. That's the appendix mentioned earlier. It runs two and a half pages.
