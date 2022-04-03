@@ -16,4 +16,12 @@ It is widely known, but not commonly discussed, that A.M. Turing, founder of mod
 
 Computer science was discovered by a transgender woman, used to save 14 million lives, and usurped by white supremacist empire to create a weapon of unimaginable death.
 
+That transgender woman died three months after Castle Bravo.
+
+Of suicide.
+
+By cyanide inhalation.
+
+("Disputed").
+
 Technology changes everything.
