@@ -1,14 +1,18 @@
-Miller is SQL.
+# Miller is SQL: Networking, Turing-Completeness, and 'The Expanse'.
 
-Corrolary: The Ring is XHR.
+### Corrolary: The Ring is XHR.
+
+___
+
+*Spoilers ahead for The Expanse, Season 3, Episode 10, "Dandelion Sky".*
 
 Earlier this evening I got high and watched this TV show about superintelligent alien computers, and it gave me an idea for an analogy about Turing-Completeness and networking that seems like a very promising entry point to explore a computational theory book for a broad audience.
 
-The show is called "The Expanse", and it concerns a technology that's discovered in an alien artifact orbiting Saturn. The technology is discovered by an Earth corporation, which dubs it "the protomolecule" and seeks to understand its potential as a weapon. They find it can't be contained, and unimaginable death occurs as a result. Eventually, the technology begins to develop its own intelligence, and builds a structure at the edge of the solar system. A ring.
+The show is called "The Expanse", and it concerns a technology that's discovered in an alien artifact orbiting Saturn. The technology is found by an Earth corporation, which dubs it "the protomolecule" and seeks to understand its potential as a weapon. They find it can't be contained, and unimaginable death occurs as a result. Eventually, the technology begins to develop its own intelligence, and builds a structure at the edge of the solar system. A ring.
 
 What's on the other side of the ring, no one knows. Except...
 
-Our protagonist James Holden, scrappy ragtag captain with a heart of gold, is approaching The Ring in a spaceship, and begins to see visions of his dead friend, Miller. Miller passed away averting a crisis related to the protomolecule, and it appears some essence of his consciousness has been absorbed by it.
+James Holden, our protagonist and leader of our scrappy band of heroes, is approaching The Ring with his crew when he begins to see visions of his dead friend, Miller. Back in Season 2, Miller passed away averting a crisis related to the protomolecule, and it appears some essence of his consciousness has been absorbed by it.
 
 At first, Miller only appears in brief flashes, speaking in fragments what appears to be gibberish. Then he disappears. And he only appears when Holden is completely alone. If anyone else approaches, walks into the room, even has a shot of seeing him, Miller vanishes.
 
@@ -16,7 +20,7 @@ So that's his source for clues about the alien artifact that is terrifying the e
 
 There's something fascinating about their communications. Every time Miller appears, his memory is wiped. When prompted, he has access to memories from Miller's biological life, but no recollection of earlier appearances as a manifestation of the technology.
 
-Which got me thinking.... it's almost like a request timeout for an HTTP request.
+Which got me thinking.... it's almost like a timeout for an HTTP request.
 
 Consider. A commonly accepted design pattern for HTTP servers is to treat requests in a stateless way, meaning the program that's running answering the request has no knowledge of any other requests. That is, unless another program gives it that knowledge. This is how security vulnerabilities are limited -- stripping this program of its "memory" limits the possibilities for cumulative effects to linger and cause unwanted behavior.
 
