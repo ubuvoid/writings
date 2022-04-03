@@ -1,4 +1,4 @@
-# The Turing Completeness Theorem and the Insufficiency of Logic
+# Turing's Completeness Theorem and the Insufficiency of Logic
 
 #### Very short version:
 
