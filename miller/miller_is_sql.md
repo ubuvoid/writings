@@ -62,7 +62,7 @@ typically, small set of atomic actions. ex: traditional atomic SQL implementatio
 
 turing completeness:
 
-final category: description, performance with choice, unrestricted repetition. turing completeness. branching.
+final category: description, performance, choice, unrestricted repetition. turing completeness. branching.
 
 while true subtract and jump if less than zero -> sufficient for turing completeness ([i think.](https://en.wikipedia.org/wiki/One-instruction_set_computer#Subtract_and_branch_if_less_than_or_equal_to_zero))
 
