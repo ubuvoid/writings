@@ -13,3 +13,5 @@
 * Godel's Influence on Turing and Lambda, opposition to Hilbert.
 * It's beautiful because it's obvious.
 * Wittgenstein's influence on Turing, and Turing's critique of Wittgenstein.
+
+[The April Fools Paper: Thrift, Proto, and the Making of the Modern Cloud.](./april/thift.md)
