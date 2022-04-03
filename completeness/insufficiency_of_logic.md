@@ -35,7 +35,7 @@ It became clear that in order to demonstrate that someone is as colossally wrong
 
 Church's group published first, so it was on Turing to prove that the two models of computation are mathematically equivalent. And they are. They're exactly the same. And they both say that certain problems are undecidable, and they both agree that Hilbert's "Deciding Problem" is in fact one of them. Which is fortunate, because that sounds obvious. That's the appendix to "On Computable Numbers" mentioned earlier. It runs two and a half pages.
 
-Turing and the Lambda group both positioned their models in direct opposition to Hilbert's, and as direct follow-ups to Godel. So now we ask ourselves... What's more likely: one, that two independent groups on opposite sides of an ocean delivered the same theory of universal computation, and yet this universal theory was wrong; or two, that David Hilbert was an idiot?
+Turing and the Lambda group both positioned their models in direct opposition to Hilbert's, and as direct follow-ups to Godel. So now we ask ourselves... What's more likely: one, that two independent groups on opposite sides of an ocean delivered the same theory of universal computation, and yet this universal theory was wrong; or two, that David Hilbert was sorely mistaken?
 
 This points us to the most beautiful thing about computer science, or the theory of completeness: it seems obvious.
 
