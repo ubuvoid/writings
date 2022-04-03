@@ -16,7 +16,7 @@ It is widely known, but not commonly discussed, that A.M. Turing, founder of mod
 
 Computer science was discovered by a transgender woman, used to save 14 million lives, and usurped by white supremacist empire to create a weapon of unimaginable death.
 
-John Von Neumann died of radiation exposure as a result of the weapon he created.
+John Von Neumann died of cancer as a result of radiation exposure from the weapon he created.
 
 A.M. Turing, the transgender woman who discovered computer science, died three months after Castle Bravo.
 
