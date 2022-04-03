@@ -4,8 +4,7 @@
 
 [Redeeming Qualities of Java in 2022.](./java/redeeming_qualities_of_java_in_2022.md)
 
-[Miller is SQL.](./miller/miller_is_sql.md)
-* Corollary: The Ring is XHR.
+[Miller is SQL: Networking, Turing-Completeness, and 'The Expanse'.](./miller/miller_is_sql.md)
 
 [Turing's Completeness Theorem and the Insufficiency of Logic](./completeness/insufficiency_of_logic.md)
 * Martin Davis is right and David Hilbert was wrong.
