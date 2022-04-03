@@ -37,6 +37,8 @@ That's a bold claim, so it's worthwhile to elaborate on what I mean by "the cons
 
 These two constraints happen to align with every experimental result we have from the field of quantum mechanics, which is just too big a coincidence to overlook. I have no opinion on whether our universe is "a simulation", but it's a mathematical fact that **our universe is simulatable**, and it can be simulated with the Turing model of universal computation. Which is good, because that seems like it should be obvious.
 
+*\[TODO: Find someplace to note Hilbert's diverging interpretation of Cantor, which seems like the root cause of the schism.]*
+
 Church's group published first, so it was on Turing to prove that the two models of computation are mathematically equivalent. And they are. They're exactly the same. And they both say that certain problems are undecidable, and they both agree that Hilbert's "Deciding Problem" is in fact one of them. Which is fortunate, because that sounds obvious. That's the appendix to "On Computable Numbers" mentioned earlier. It runs two and a half pages.
 
 Turing and the Lambda group both positioned their models in direct opposition to Hilbert's, and as direct follow-ups to Godel. So now we ask ourselves... What's more likely: one, that two independent groups on opposite sides of an ocean delivered the same theory of universal computation, and yet this universal theory was wrong; or two, that David Hilbert was sorely mistaken?
