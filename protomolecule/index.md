@@ -16,7 +16,7 @@ It is widely known, but not commonly discussed, that A.M. Turing, founder of mod
 
 Computer science was discovered by a transgender woman, used to save 14 million lives, and usurped by white supremacist empire to create a weapon of unimaginable death.
 
-John Von Neumann, who has a computer architecture named after him that he did not invent, died of cancer as result of nuclear radiation from the doomsday machine he created.
+John Von Neumann, who has a computer architecture named after him that he did not invent, died of cancer as result of nuclear radiation from his own doomsday machine.
 
 A.M. Turing, the transgender woman who discovered computer science, died three months after Castle Bravo. Of suicide. By cyanide inhalation. ("Disputed").
 
