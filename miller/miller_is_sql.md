@@ -56,7 +56,7 @@ performance. that's the word. description and performance, with no choice or bra
 
 third (boundary) category: description, performance, choice, with restrictions on repetition.
 
-typically, small set of atomic actions. ex: traditional atomic SQL implementations (trivially extended to TC by adding 'while true', easy to accidentally make TC by adding convenience language features.
+typically, small set of atomic actions. ex: traditional atomic SQL implementations (trivially extended to TC by adding 'while true', easy to accidentally make TC by adding convenience language features.)
 
 ---
 
