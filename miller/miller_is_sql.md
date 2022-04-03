@@ -22,7 +22,7 @@ There's something fascinating about their communications. Every time Miller appe
 
 Which got me thinking.... it's almost like a timeout for an HTTP request.
 
-Consider. A commonly accepted design pattern for HTTP servers is to treat requests in a stateless way, meaning the program that's running answering the request has no knowledge of any other requests. That is, unless another program gives it that knowledge. This is how security vulnerabilities are limited -- stripping this program of its "memory" limits the possibilities for cumulative effects to linger and cause unwanted behavior.
+Consider. A commonly accepted design pattern for HTTP servers is to treat requests in a stateless way, meaning the program that's running answering the request has no knowledge of any prior requests. That is, unless another program gives it that knowledge. This is how security vulnerabilities are limited -- stripping this program of its "memory" limits the possibilities for cumulative effects to linger and cause unwanted behavior.
 
 When we want to get a full picture of a conversation between an HTTP server and a browser, we look at the logs, where a data artifact of each request is preserved. You can have a log on both ends of the connection, much like Holden can remember his previous conversations with Miller, and.... well, whatever's on the other end of Miller can remember what happened, too.
 
