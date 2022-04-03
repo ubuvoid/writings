@@ -18,12 +18,6 @@ Computer science was discovered by a transgender woman, used to save 14 million 
 
 John Von Neumann died of cancer as a result of radiation exposure from the weapon he created.
 
-A.M. Turing, the transgender woman who discovered computer science, died three months after Castle Bravo.
-
-Of suicide.
-
-By cyanide inhalation.
-
-("Disputed").
+A.M. Turing, the transgender woman who discovered computer science, died three months after Castle Bravo. Of suicide. By cyanide inhalation. ("Disputed").
 
 Technology changes everything.
