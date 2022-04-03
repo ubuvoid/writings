@@ -1,4 +1,4 @@
-# Turing's Completeness Theorem and the Insufficiency of Logic
+# The Turing Completeness Theorem and the Insufficiency of Logic
 
 #### Very short version:
 
@@ -23,7 +23,7 @@ Roughly speaking, the "Deciding Problem" as Hilbert understood it is a close cou
 
 The answer, obviously, is no. But try telling that to David Hilbert.
 
-*\[Sidebar: an effective resource for understanding Turing's Completeness Theory aka The Church-Turing Thesis is "Turing's Vision: The Birth of Computer Science" by Chris Bernhardt. While it perpetuates US academic misconceptions about Turing as an abstract mathematician rather than an implementer, the writing and examples are clear and crisp. This is the book I'd use to teach an undergrad theory class.]*
+*\[Sidebar: an effective resource for understanding Turing's Completeness Theorem aka The Church-Turing Thesis is "Turing's Vision: The Birth of Computer Science" by Chris Bernhardt. While it perpetuates US academic misconceptions about Turing as an abstract mathematician rather than an implementer, the writing and examples are clear and crisp. This is the book I'd use to teach an undergrad theory class.]*
 
 This event is also the occasion of the most astonishing coincidence I am aware of in recorded history.
 
