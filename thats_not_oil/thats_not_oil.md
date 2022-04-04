@@ -14,3 +14,5 @@ Or was he just lost in the flood?*
 ---
 
 // TODO: this.
+
+// TLDR, traditional object-oriented models tend to develop blood clots. Data needs to circulate just like blood, or the system collapses under its own weight.
