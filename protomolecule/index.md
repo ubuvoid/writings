@@ -2,7 +2,7 @@
 
 ---
 
-*"Guns. Railguns. Nuclear bombs. No weapon ever brings peace. No one knows what the protomolecule wants or what it's doing but, they are using it anyway. It's already scattered too far to ever be sure it'll all be gone. It's part of the equation now, and it will be from now on. We can't change that. We can't wish it away. Earth has it, Mars has it, and the belt needs it, too."
+*"Guns. Railguns. Nuclear bombs. No weapon ever brings peace. No one knows what the protomolecule wants or what it's doing, but they are using it anyway. It's already scattered too far to ever be sure it'll all be gone. It's part of the equation now, and it will be from now on. We can't change that. We can't wish it away. Earth has it, Mars has it, and the Belt needs it, too."
 \- Naomi Nagata in The Expanse*
 
 ---
