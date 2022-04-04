@@ -22,7 +22,7 @@ The paper, which runs 36 pages including an appendix, describes the model of uni
 
 Roughly speaking, the "Deciding Problem" as Hilbert understood it is a close cousin of those logic puzzles about soldiers who only lie or only tell the truth. It asks: is there a set of logical axioms from which it's possible to derive complete and total knowledge of the entire universe at once?
 
-The answer seems like it should be: "obviously, no." But then, not everything that's obvious is true and not everything that's true is obvious.
+The answer seems like it should be: "obviously, no." But then, not everything that's obvious is true and not everything that's true is obvious. But Turing's paper, despite all expectations, actually proves in this case that the obvious is correct, and the enterprise which became known as "Hilbert's Project" cannot be fulfilled in our universe.
 
 *\[Sidebar: an effective resource for understanding Turing's Completeness Theorem aka The Church-Turing Thesis is "Turing's Vision: The Birth of Computer Science" by Chris Bernhardt. While it perpetuates US academic misconceptions about Turing as an abstract mathematician rather than an implementer, the writing and examples are clear and crisp. This is the book I'd use to teach an undergrad theory class.]*
 
