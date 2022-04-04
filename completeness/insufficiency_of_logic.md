@@ -12,8 +12,6 @@
 
 #### Slightly less short version:
 
-Martin Davis is right and David Hilbert was wrong.
-
 It's 11/30/1936.
 
 David Hilbert has just become the first person in recorded history to actually be owned by their own logic, as this is the date A.M. Turing published "On Computable Numbers, with an Application to the Entscheidungsproblem."
