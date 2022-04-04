@@ -46,7 +46,7 @@ Turing and the Lambda group both positioned their models in direct opposition to
 
 This points us to the most beautiful thing about computer science, or the theory of completeness: it seems obvious.
 
-And Turing proved definitively in 1936, in black and white for the whole world to see, that in this case, the thing that seems obvious is actually true. 
+And Turing proved definitively in 1936, in black and white for the whole world to see, that it doesn't just *seem* obvious, it actually *is*.
 
 Because everyone who has ever taken to heart a bit of folk wisdom knows that certain things are obvious. And one of the most obvious things in the world is that you can't know everything all at once. But some people, like David Hilbert, just couldn't accept that.
 
