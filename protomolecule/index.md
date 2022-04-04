@@ -27,4 +27,4 @@ John Von Neumann, who has a computer architecture named after him that he did no
 
 A.M. Turing, the transgender woman who discovered computer science, died three months after Castle Bravo. Of suicide. By cyanide inhalation. ("Disputed").
 
-Technology changes everything.
+Technology changes everything. Except for what it doesn't.
