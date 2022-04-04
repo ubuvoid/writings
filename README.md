@@ -9,3 +9,5 @@
 [Turing's Completeness Theorem and the Insufficiency of Logic.](./completeness/insufficiency_of_logic.md)
 
 [The April Fools Paper: Thrift, Proto, and the Making of the Modern Cloud.](./april/thrift.md)
+
+[That's Not Oil, That's Blood: An organizing metaphor for circulation in distributed systems.](./thats_not_oil/thats_not_oil.md)
