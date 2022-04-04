@@ -1,5 +1,12 @@
 # Computer science is our protomolecule.
 
+---
+
+*"Guns. Railguns. Nuclear bombs. No weapon ever brings peace. No one knows what the protomolecule wants or what it's doing but, they are using it anyway. It's already scattered too far to ever be sure it'll all be gone. It's part of the equation now, and it will be from now on. We can't change that. We can't wish it away. Earth has it, Mars has it, and the belt needs it, too."
+\- Naomi Nagata in The Expanse*
+
+---
+
 The first major application of computer science by a state power was the decryption project that broke the Enigma codes in World War II. Historians estimate that these efforts shortened the war by two years and saved 14 million lives. The project was led by A.M. Turing.
 
 The second major application of computer science by a state power was the hydrogen bomb. In 'The Pentagon's Brain', Annie Jacobson writes: "Enrico Fermi and Isidor Rabi, both Manhattan Project scientists, called this machine an “evil thing,” and they told President Truman it should never be created. But it was built anyway." Computer simulations were essential to the bomb's design and construction. These simulations, conducted by John Von Neumann, underestimated the magnitude of the Castle Bravo explosion by a factor of three.
