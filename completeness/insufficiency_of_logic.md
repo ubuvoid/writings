@@ -48,7 +48,7 @@ This points us to the most beautiful thing about computer science, or the theory
 
 And Turing proved definitively in 1936, in black and white for the whole world to see, that it doesn't just *seem* obvious, it actually *is*.
 
-Because everyone who has ever taken to heart a bit of folk wisdom knows that certain things are obvious. And one of the most obvious things in the world is that you can't know everything all at once. But some people, like David Hilbert, just couldn't accept that.
+Because everyone who has ever taken to heart a bit of folk wisdom knows that certain things are simply undeniable. And one of the most undeniable propositions in the world is that you can't know everything all at once. But some people, like David Hilbert, just couldn't accept that.
 
 Did you know that Turing was a student of Wittgenstein, and that transcipts of their conversations during lectures are preserved in the historical record? Wittgenstein argues at length against Hilbert's worldview, in part on the grounds that it's obviously wrong. However, since Wittgenstein is lacking the domain knowledge to distinguish between Hilbert's model and the model proposed by Godel/Turing/Church/Kleen/et al., he puts Turing in the rhetorical position of defending Hilbert, a role Turing is entirely unwilling to perform. Their back-and-forths are truly enlightening. You can find more details about this, and quotations at length, in David Leavitt's "The Man* \[[sic](../protomolecule/index.md)] Who Knew Too Much: Alan Turing and the Invention of the Computer".
 
