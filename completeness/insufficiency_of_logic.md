@@ -38,7 +38,7 @@ That's a bold claim, so it's worthwhile to elaborate on what I mean by "the cons
 
 These two constraints happen to align with every experimental result we have from the field of quantum mechanics, which is just too big a coincidence to overlook. I have no opinion on whether our universe is "a simulation", but it's a mathematical fact that **our universe is simulatable**, and it can be simulated with the Turing model of universal computation. Which is good, because that seems like it should be obvious.
 
-*\[TODO: Find someplace to note Hilbert's diverging interpretation of Cantor, which seems like the root cause of the schism.]*
+*\[TODO: Find someplace to note Hilbert's diverging interpretation of Cantor, which seems like the root cause of the schism. In OCN, Turing highlights a specious argument based on a misapplication of the diagonal proof, and demonstrates that the proper application of the diagonal argument supports the paper's central claim. Seems like a good start.]*
 
 Church's group published first, so it was on Turing to prove that the two models of computation are mathematically equivalent. And they are. They're exactly the same. And they both say that certain problems are undecidable, and they both agree that Hilbert's "Deciding Problem" is in fact one of them. Which is fortunate, because that sounds obvious. That's the appendix to "On Computable Numbers" mentioned earlier. It runs two and a half pages.
 
