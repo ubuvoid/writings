@@ -84,6 +84,6 @@ At first, the protomolecule allows the Turing-complete process known as Miller's
 
 As we gain confidence about our code and its provenance, we start running the code in bigger and bigger sandboxes. In the show, the biggest sandbox we see is the interior of The Ring itself, a neutral zone, a bubble separate from other realities, but one with a rich bandwidth of information into and out of it through controlled channels.
 
-A little bit like running code as a trusted user rather than inside a Sawzall interpreter.
+A little bit like running code as a trusted user rather than inside a tiny query interpreter.
 
 Of course, whatever side of the Ring you're on, it's all just one big interpreter at the end of the day.
