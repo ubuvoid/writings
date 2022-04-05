@@ -13,3 +13,5 @@
 [That's Not Oil, That's Blood: An organizing metaphor for circulation in distributed systems.](./thats_not_oil/thats_not_oil.md)
 
 [Irredeemable Qualities of Java.](./java/irredeemable_qualities.md)
+
+Don't Let It Burn: Preserving Trans Wisdom and Culture for Future Generations.
