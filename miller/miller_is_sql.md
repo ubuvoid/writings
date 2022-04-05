@@ -64,7 +64,7 @@ turing completeness:
 
 final category: description, performance, choice, unrestricted repetition. turing completeness. branching.
 
-while true subtract and jump if less than zero -> sufficient for turing completeness ([i think.](https://en.wikipedia.org/wiki/One-instruction_set_computer#Subtract_and_branch_if_less_than_or_equal_to_zero))
+while true subtract and jump if less than zero -> sufficient for turing completeness ([i think.](https://en.wikipedia.org/wiki/One-instruction_set_computer#Subtract_and_branch_if_less_than_or_equal_to_zero)) *\[Edit 04/05/22: Confirmed.]*
 
 sidebar: interesting relationship between dna and representation of single instruction set computer programs ex: subleq.
 
