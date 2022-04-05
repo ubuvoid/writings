@@ -22,7 +22,7 @@ Roughly speaking, the "Deciding Problem" as Hilbert understood it is a close cou
 
 The answer seems like it should be: "obviously, no." But then, not everything that seems obvious is true and not everything that's true is obvious. But Turing's paper, despite all expectations, actually proves in this case that the obvious is correct, and the enterprise which became known as "Hilbert's Project" cannot be fulfilled in our universe.
 
-*\[Sidebar: an effective resource for understanding Turing's Completeness Theorem aka The Church-Turing Thesis is "Turing's Vision: The Birth of Computer Science" by Chris Bernhardt. While it perpetuates US academic misconceptions about Turing as an abstract mathematician rather than an implementer, the writing and examples are clear and crisp. This is the book I'd use to teach an undergrad theory class.]*
+*\[Sidebar: an effective resource for understanding Turing's Completeness Theorem aka The Church-Turing Thesis aka the Fundamental Theorem of Computer Science, is "Turing's Vision: The Birth of Computer Science" by Chris Bernhardt. While it perpetuates US academic misconceptions about Turing as an abstract mathematician rather than an implementer, the writing and examples are clear and crisp. This is the book I'd use to teach an undergrad theory class.]*
 
 This event is also the occasion of the most astonishing coincidence I am aware of in recorded history.
 
