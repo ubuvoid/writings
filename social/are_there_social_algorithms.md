@@ -6,7 +6,7 @@
 
 *Posted 04/06/2022.*
  
-So there's this book called Philosophical Explorations of the Legacy of Alan *\[sic]* Turing, it's an academic anthology. And you've got mathematicians, and philosphers, and experts in digital signal processing for audio, and all of these different disciplines relaying how Turing's work relates to their field and their worldview. It's really interesting.
+So there's this book called Philosophical Explorations of the Legacy of Alan *\[sic]* Turing, it's an academic anthology. And you've got mathematicians, and philosophers, and experts in digital signal processing for audio, and all of these different disciplines relaying how Turing's work relates to their field and their worldview. It's really interesting.
 
 It covers topics as diverse as the origins of computer music and digital signal processing ("The Early History of Voice Encryption", Craig Baur, and "Turing and the History of Computer Music", Jack Copeland and Jason Long), an elaboration of the branch of contemporary philosophy that most closely follows Turing's own viewpoint ("Turing and Free Will: A New Take on an Old Debate", Diane Proudfoot), and an exploration of the nature of artificial intelligence as Turing conceived it ("Turing on the Integration of Human and Machine Intelligence", Susan G. Sterrett), just to name a few.
 
