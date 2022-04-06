@@ -79,7 +79,7 @@ That's my read, anyway. Obviously, it's speculation. I suppose it's always possi
 
 But you can't write that in a peer-reviewed journal in the field of Computer Science. And that's the entire problem.
 
-In order for the human race to be free, academic computer science as it currently exists must be dismantled. I know it's a hot take, but there you do.
+In order for the human race to be free, academic computer science as it currently exists must be dismantled. I know it's a hot take, but there you go.
 
 If anyone is interested in giving me an honory Ph.D, my DM's are open.
 
