@@ -15,3 +15,5 @@
 [Irredeemable Qualities of Java.](./java/irredeemable_qualities.md)
 
 Don't Let It Burn: Preserving Trans Wisdom and Culture for Future Generations.
+
+Are There Social Algorithms?
