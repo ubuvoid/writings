@@ -30,7 +30,7 @@ Let's start with the title: "Is There A Church-Turing Thesis for Social Algoritm
 2. Who Church and Turing were.
 3. Why their thesis is so important.
 4. What an algorithm is.
-5. A meaningful understanding of what constitutes a "social algorithm", and what makes it different from a regular (anti-social?) algorithm.
+5. A meaningful understanding of what constitutes a "social algorithm", and what makes it different from a from some other (anti-social?) kind of algorithm.
 6. An opinion about whether the Church-Turing Thesis, whoever they were and whatever that is, applies differently to different kinds of algorithms, and an opinion about whether "social" versus "non-social" is a meaningful way or even remotely useful way of thinking about this.
 
 What could possibly go wrong?
