@@ -1,4 +1,6 @@
-# That's Not Oil, That's Blood: An organizing metaphor for circulation in distributed systems.
+# That's Not Oil, That's Blood
+
+### An organizing metaphor for circulation in distributed systems.
 
 ---
 
