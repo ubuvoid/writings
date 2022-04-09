@@ -1,4 +1,6 @@
-# The April Fools Paper: Thrift, Proto, and the Making of the Modern Cloud.
+# The April Fools Paper.
+
+### Thrift, Proto, and the Making of the Modern Cloud.
 
 *Originally posted 2022/04/02*
 
