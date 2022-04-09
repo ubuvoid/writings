@@ -53,7 +53,7 @@ Instead of seeing the messages as blood cells circulating through a system, we s
 
 Because we didn't respect that blood must be circulated, our system was prone to blood clots.
 
-In short, we forgot the memorable Springsteen lyric quoted above. This is my advice to aspiring distributed systems developers: That's Not Oil, That's Blood.
+In short, we forgot the memorable Springsteen lyric quoted above. This is my advice to aspiring distributed systems developers: *That's Not Oil, That's Blood.*
 
 Blood and Oil, two things that even people who run corporations understand. Capitalism is, and always has been, predicated upon obscuring the difference between the two. The blood on the gears, the oil that's burned to turn them, the blood that's spilled to claim the oil. And so on, an unending chain of references, like a stray Java object that just keeps hanging on when the heap scanner comes knocking.
 
