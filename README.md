@@ -2,7 +2,7 @@
 
 [Computer Science is our Protomolecule.](./protomolecule/index.md) Incovation of the muse.
 
-[Redeeming Qualities of Java in 2022.](./java/redeeming_qualities_of_java_in_2022.md)
+[Redeeming Qualities of Java in 2022.](./java/redeeming_qualities_of_java_in_2022.md) A short essay.
 
 [Miller is SQL.](./miller/miller_is_sql.md) Networking, Turing-Completeness, and 'The Expanse'.
 
