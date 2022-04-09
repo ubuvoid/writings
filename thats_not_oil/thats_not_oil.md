@@ -39,7 +39,7 @@ The reason has to do with memory locality. In the mid 90's, home computers were 
 
 If you've never done real-time systems programming, it can be hard to appreciate just how much slower main memory is than L1 or L2 cache. The difference is orders of magnitude, and the single biggest bottleneck for performance on contemporary CPUs is unnecessary cache misses in memory due to data being scattered randomly around the memory bank rather than in a nice compact unit.
 
-Guess what happens when you allocate objects willy-nilly just because you're board. You make a lot of random garbage in random corners of your computer. Somebody has to keep track of all that garbage, and by using Java you've implicitly agreed it.
+Guess what happens when you allocate objects willy-nilly just because you're bored. You make a lot of random garbage in random corners of your computer. Somebody has to keep track of all that garbage, and by using Java you've implicitly agreed it's not gonna be you so the computer had better get to work.
 
 So take that problem, and multiply itself, because in this same system, we were also integrating with Thrift, a library from Facebook developed for a similar purpose but with totally different operational requirements, that none of us had used before, and which was barely documented outside of a paper that was [published on April Fool's Day](../april/thrift.md) and a website called [Thrift: The Missing Guide](https://diwakergupta.github.io/thrift-missing-guide/).
 
