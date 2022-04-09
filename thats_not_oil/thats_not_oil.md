@@ -21,7 +21,7 @@ Or was he just lost in the flood?*
 
 // 2022/04/08:
 
-New direction for this piece. I have the perfect poster child. It's called Fling SDK, aka Whisperplay, aka Thrift FireOS, and I helped write it between 2013 and 2016. It was an ingeneous design for the time, and a truly clever feat of product engineering. The whole I idea can be summed up as, "five features for the price of one." You build one communication library to get FireOS Stuff and Companion Apps talking other FireOS Stuff, in a year when they planned to release A Lot of it. Then, every single app that uses it looks like a new killer feature instead of simply an application calling an API.
+New direction for this piece. I have the perfect poster child. It's called Fling SDK, aka Whisperplay, aka Thrift FireOS, and I helped write it between 2013 and 2016. It was an ingeneous design for the time, and a truly clever feat of product engineering. The whole idea can be summed up as, "five features for the price of one." You build one communication library to get FireOS Stuff and Companion Apps talking other FireOS Stuff, in a year when they planned to release A Lot of it. Then, every single app that uses it looks like a new killer feature instead of simply an application calling an API.
 
 So Whisperplay was well equipped to fulfill the immediate project goals of selling FireTVs and getting the engineers promoted. Where it fell short, in hindsight, was longevity. The design, in practice, ended up being too complicated for the engineering team to reason about succinctly, so the code became hard to maintain, and so on. We've all been there, and it's a natural property of software systems.
 
