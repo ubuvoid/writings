@@ -36,6 +36,3 @@ Goodbye, and good luck to my brothers, sisters, and siblings who remain.
 \- Ms. Dana Erica Anderson </br>
 Senior Software Engineer
 
-----
-
-*\[Edit 2020/04/08: The name of the tech lead was Mark Snyder. He works at a taxi company now.]*
