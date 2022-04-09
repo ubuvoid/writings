@@ -12,9 +12,9 @@
 
 [That's Not Oil, That's Blood: An organizing metaphor for circulation in distributed systems.](./thats_not_oil/thats_not_oil.md) Updated 2022/04/08.
 
-[Irredeemable Qualities of Java.](./java/irredeemable_qualities.md)
+[Irredeemable Qualities of Java.](./java/irredeemable_qualities.md) In progress, an ongoing project.
 
-Don't Let It Burn: Preserving Trans Wisdom and Culture for Future Generations.
+Don't Let It Burn: Preserving Trans Wisdom and Culture for Future Generations. In progress.
 
 [Are There Social Algorithms?](./social/are_there_social_algorithms.md) Yes.
 
