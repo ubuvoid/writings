@@ -17,3 +17,7 @@
 Don't Let It Burn: Preserving Trans Wisdom and Culture for Future Generations.
 
 [Are There Social Algorithms?](./social/are_there_social_algorithms.md)
+
+====================================================
+
+[Mailbag](https://github.com/ubuvoid/writings/issues). Drop me a line. -ubuvoid.
