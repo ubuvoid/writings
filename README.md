@@ -1,16 +1,16 @@
 # writings
 
-[Computer Science is our Protomolecule.](./protomolecule/index.md)
+[Computer Science is our Protomolecule.](./protomolecule/index.md) Incovation of the muse.
 
 [Redeeming Qualities of Java in 2022.](./java/redeeming_qualities_of_java_in_2022.md)
 
-[Miller is SQL: Networking, Turing-Completeness, and 'The Expanse'.](./miller/miller_is_sql.md)
+[Miller is SQL.](./miller/miller_is_sql.md) Networking, Turing-Completeness, and 'The Expanse'.
 
-[Turing's Completeness Theorem and the Insufficiency of Logic.](./completeness/insufficiency_of_logic.md)
+[Turing's Completeness Theorem and the Insufficiency of Logic.](./completeness/insufficiency_of_logic.md) An exploration of the fundamental theorem of computer science, with biographical and historical notes.
 
-[The April Fools Paper: Thrift, Proto, and the Making of the Modern Cloud.](./april/thrift.md)
+[The April Fools Paper: Thrift, Proto, and the Making of the Modern Cloud.](./april/thrift.md) Explication of Silicon Valley shenanigans.
 
-[That's Not Oil, That's Blood: An organizing metaphor for circulation in distributed systems.](./thats_not_oil/thats_not_oil.md) Updated 2022/04/08.
+[That's Not Oil, That's Blood.](./thats_not_oil/thats_not_oil.md) An organizing metaphor for circulation in distributed systems. Updated 2022/04/08.
 
 [Irredeemable Qualities of Java.](./java/irredeemable_qualities.md) In progress, an ongoing project.
 
