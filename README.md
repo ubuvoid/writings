@@ -1,5 +1,7 @@
 # writings
 
+====================================================
+
 [Computer Science is our Protomolecule.](./protomolecule/index.md) Incovation of the muse.
 
 [Redeeming Qualities of Java in 2022.](./java/redeeming_qualities_of_java_in_2022.md) A short essay.
