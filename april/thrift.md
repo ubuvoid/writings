@@ -2,6 +2,8 @@
 
 ### Thrift, Proto, and the Making of the Modern Cloud.
 
+---
+
 *Originally posted 2022/04/02*
 
 Happy 15th birthday to the [Thrift whitepaper](https://thrift.apache.org/static/files/thrift-20070401.pdf). Back then, we didn't understand why you were published on April 1. We get it now.
@@ -24,5 +26,7 @@ And that's why it's called Thrift. Cause they got it for cheap.
 Upon Thrift's release, it became practical to build a Google Maps-scale website with exclusively open source software. This led directly to the proliferation of large-scale startups such as Uber and Lyft in the early 2010s.
 
 It's stories like these that have taught me to view open-source releases with scrutiny and to read between the lines.
+
+---
 
 *Post-script: in 2013, my team at Amazon introduced Thrift into the FireOS codebase. We used the Thrift whitepaper extensively as a source of documentation, and none of us ever thought twice about why the paper was published on April 1. We really should have been suspicious, though, since the second-best source of documentation for Thrift after the whitepaper is called [Thrift: The Missing Guide](https://diwakergupta.github.io/thrift-missing-guide/). As an aside, Thrift FireOS is essentially impossible to migrate away from, and to this day, the FireTV [won't even start](https://github.com/esc0rtd3w/firestick-loader/blob/230804f2480693604146a936fbb533a918dbcdb4/scripts/debloat/bloat-remove.sh#L985) if you delete the package that contains the Thrift server.*
