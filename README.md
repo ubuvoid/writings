@@ -8,7 +8,7 @@
 
 [Turing's Completeness Theorem and the Insufficiency of Logic.](./completeness/insufficiency_of_logic.md) An exploration of the fundamental theorem of computer science, with biographical and historical notes.
 
-[The April Fools Paper: Thrift, Proto, and the Making of the Modern Cloud.](./april/thrift.md) Explication of Silicon Valley shenanigans.
+[The April Fools Paper.](./april/thrift.md) Thrift, Proto, and the Making of the Modern Cloud. Explication of Silicon Valley shenanigans.
 
 [That's Not Oil, That's Blood.](./thats_not_oil/thats_not_oil.md) An organizing metaphor for circulation in distributed systems. Updated 2022/04/08.
 
