@@ -18,6 +18,9 @@ Don't Let It Burn: Preserving Trans Wisdom and Culture for Future Generations. I
 
 [Are There Social Algorithms?](./social/are_there_social_algorithms.md) Yes.
 
+[Fwd: \[epitaph\] Google is no longer safe, so I'm leaving.](./borg_epitaph/google_is_no_longer_safe_so_im_leaving_2020_01_28.md) Exit email form borg cube. Tue, January 28, 2020, 13:04.
+
+
 ====================================================
 
 [Mailbag](https://github.com/ubuvoid/writings/issues). Drop me a line. -ubuvoid.
