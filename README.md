@@ -10,7 +10,7 @@
 
 [The April Fools Paper.](./april/thrift.md) Thrift, Proto, and the Making of the Modern Cloud. Explication of Silicon Valley shenanigans.
 
-[That's Not Oil, That's Blood.](./thats_not_oil/thats_not_oil.md) An organizing metaphor for circulation in distributed systems. Updated 2022/04/08.
+[That's Not Oil, That's Blood.](./thats_not_oil/thats_not_oil.md) An organizing metaphor for circulation in distributed systems.
 
 [Irredeemable Qualities of Java.](./java/irredeemable_qualities.md) In progress, an ongoing project.
 
