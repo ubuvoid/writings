@@ -33,5 +33,5 @@ As this is unlikely to happen, I am instead removing myself from Google.
 
 Goodbye, and good luck to my brothers, sisters, and siblings who remain.
 
-\- Ms. Dana Erica Anderson
+\- Ms. Dana Erica Anderson </br>
 Senior Software Engineer
